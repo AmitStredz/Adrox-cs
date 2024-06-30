@@ -1,0 +1,19 @@
+/* comingSoon.css */
+.bg-default {
+  background-image: url("./assets/planetBg.png");
+  background-size: cover;
+  background-position: center;
+}
+
+@media (max-width: 600px) {
+  .bg-default {
+  background-image: url("./assets/phoneBg.png");
+
+  }
+}
+
+/* .bg-small {
+    background-image: url('./assets/anotherBg.png');
+    background-size: cover;
+    background-position: center;
+  } */

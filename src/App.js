@@ -1,4 +1,3 @@
-import './App.css';
 import ComingSoon from './views/comingSoon';
 
 function App() {
