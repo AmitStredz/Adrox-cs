@@ -144,8 +144,8 @@ function ComingSoon(props) {
                 className="flex gap-5 items-center justify-center"
                 data-aos="fade-in"
               >
-                <i className="ri-checkbox-circle-line text-4xl sm:text-6xl text-[#AA00FE]"></i>
-                <p className="text-[14px] sm:text-[32px] text-green-500 font-bold">
+                <i className="ri-checkbox-circle-line text-5xl sm:text-6xl text-[#AA00FE]"></i>
+                <p className="text-[16px] sm:text-[32px] text-green-500 font-bold">
                   Email Sent Successfully.
                 </p>
               </div>
