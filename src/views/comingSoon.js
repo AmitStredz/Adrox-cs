@@ -99,7 +99,7 @@ function ComingSoon(props) {
         <div>
           <img
             src={adroxLogo2}
-            className="absolute top-5 sm:top-10 left-5 sm:left-10 w-36 sm:w-44"
+            className="absolute top-5 sm:top-10 left-5 sm:left-10 w-28 sm:w-44"
           ></img>
           <a 
             href="https://www.instagram.com/adxorg?igsh=eHBvazZkZThmZ2dj"
