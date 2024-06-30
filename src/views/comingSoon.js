@@ -119,7 +119,7 @@ function ComingSoon(props) {
             className="w-[20rem] sm:w-[25rem] md:w-[35rem] lg:w-[40rem]"
           ></img>
 
-          <p className="text-[14px] sm:text-[24px] md:text-[32px] font-300 w-[35rem] max-sm:w-[90vw] text-center">
+          <p className="text-[14px] sm:text-[24px] md:text-[32px] font-300 w-[70vw] sm:w-[25rem] md:w-[35rem] text-center">
             We'll let you know when we are Launching
           </p>
           {!emailSent ? (
