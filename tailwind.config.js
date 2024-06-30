@@ -8,7 +8,7 @@ module.exports = {
         poppins: ["Poppins Sans", "sans-serif"],
       },
       backgroundPosition: {
-        "center-left-40": "calc(50% - 60vw) center",
+        "center-left-40": "calc(50% - 80vw) center",
       },
       fontWeight: {
         100: "100",
