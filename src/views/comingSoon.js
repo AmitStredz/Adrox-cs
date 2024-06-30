@@ -141,11 +141,11 @@ function ComingSoon(props) {
           ) : (
             <div>
               <div
-                className="flex gap-5 items-center max-sm:ps-[12vw] justify-center"
+                className="flex gap-5 items-center justify-center"
                 data-aos="fade-in"
               >
-                <i className="ri-checkbox-circle-line text-6xl text-[#AA00FE]"></i>
-                <p className="text-[24px] sm:text-[32px] text-green-500 font-bold">
+                <i className="ri-checkbox-circle-line text-4xl sm:text-6xl text-[#AA00FE]"></i>
+                <p className="text-[14px] sm:text-[32px] text-green-500 font-bold">
                   Email Sent Successfully.
                 </p>
               </div>
